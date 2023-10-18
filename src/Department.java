@@ -1,0 +1,3 @@
+public enum Department {
+  DEVELOPMENT, DEPARTMENT, MARKETING, BUSSINESS, FINANCE
+}
